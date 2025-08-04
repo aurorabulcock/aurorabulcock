@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... data analytics and machine learning!
 - 🌱 I’m currently learning ... Python coding
 - 💞️ I’m looking to collaborate on ... anything!
-- 😄 Pronouns: ... she/her
 
 <!---
 aurorabulcock/aurorabulcock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
