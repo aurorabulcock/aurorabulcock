@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @aurorabulcock
-- 👀 I’m interested in ... data analytics and machine learning!
-- 🌱 I’m currently learning ... Python coding
-- 💞️ I’m looking to collaborate on ... anything!
+Hello!
 
-<!---
-aurorabulcock/aurorabulcock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Rory, I'm a Math major at University of Houston. Here you'll find code from previous courses I've taken or just random projects.
+Feel free to reach out should you have any questions! thanks :)
